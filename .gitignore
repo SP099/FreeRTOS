@@ -1,0 +1,9 @@
+.metadata/
+Debug/
+Release/
+build/
+*.o
+*.elf
+*.bin
+*.map
+*.log
